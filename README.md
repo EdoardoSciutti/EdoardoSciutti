@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edoardo Sciutti</h1>
+<h1 align="center">Hi, I'm Edoardo Sciutti</h1>
 <h3 align="center">I am a student who is passionate about programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edoardosciutti&label=Profile%20views&color=0e75b6&style=flat" alt="edoardosciutti" /> </p>
