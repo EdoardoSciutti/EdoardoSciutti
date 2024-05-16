@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edoardosciutti&label=Profile%20views&color=0e75b6&style=flat" alt="edoardosciutti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edoardosciutti" alt="edoardosciutti" /></a> </p>
-
 - 📫 How to reach me **sciutti05@gmail.com**
 
 - ⚡ Fun fact **I am 2 meters tall or in American 6.8 inches**
