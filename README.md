@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I am an Italian student who is passionate about programming and that is going to attending university</h4>
+<h4 align="center">I am an Italian student who is passionate about programming and that is going to enroll in university</h4>
 
 ###
 
